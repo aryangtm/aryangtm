@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryangtm
+- 👋 Hi, I’m Aryan Gautam.
 - 📫 How to reach me aryangautam2k3@gmail.com
 
 <!---
