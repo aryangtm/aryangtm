@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Aryan.</h1>
 <h3 align="center">A Computer Science student.</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangtm&label=Profile%20views&color=0e75b6&style=flat" alt="aryangtm" /> </p>
 
